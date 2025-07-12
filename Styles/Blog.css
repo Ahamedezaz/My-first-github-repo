@@ -1,10 +1,13 @@
 .div {
+
   font-size: 20px;
   padding: 20px;
-  margin: 20px ;
+  margin-bottom: 30px ;
+  margin-left: 20px;
+  margin-right: 20px;
   border: 20px solid pink;
   border-radius: 20px;
-  background-color:bisque;
+  background-color: bisque;
 }
 footer {
   size: 0px;
