@@ -1,5 +1,11 @@
 .div {
   font-size: 20px;
-  padding: 10px;
-  background-color:tomato;
+  padding: 20px;
+  margin: 20px ;
+  border: 20px solid pink;
+  border-radius: 20px;
+  background-color:bisque;
+}
+footer {
+  size: 0px;
 }
